@@ -81,7 +81,7 @@ div.half-width-down{
 .experience-area{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
-    background-position: left  bottom;
+    background-position: left;
 }
 .border-web-developer{
     border-left: 8px solid;
