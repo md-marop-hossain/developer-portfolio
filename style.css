@@ -93,3 +93,6 @@ div.half-width-down{
     border-image: linear-gradient(blue, cyan) 27;
     border-image-slice: 1;
 }
+footer p{
+    text-align: center;
+}
